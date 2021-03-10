@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jude\\source\\repos\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {}
+    "C:\\Users\\Jude\\source\\repos\\ECommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jude\\source\\repos\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj": {
+    "C:\\Users\\Jude\\source\\repos\\ECommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jude\\source\\repos\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
-        "projectName": "ECommerce.Api.Search",
-        "projectPath": "C:\\Users\\Jude\\source\\repos\\ECommerce\\ECommerce.Api.Search\\ECommerce.Api.Search.csproj",
+        "projectUniqueName": "C:\\Users\\Jude\\source\\repos\\ECommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
+        "projectName": "Ecommerce.Api.Search",
+        "projectPath": "C:\\Users\\Jude\\source\\repos\\ECommerce\\Ecommerce.Api.Search\\Ecommerce.Api.Search.csproj",
         "packagesPath": "C:\\Users\\Jude\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jude\\source\\repos\\ECommerce\\ECommerce.Api.Search\\obj\\",
+        "outputPath": "C:\\Users\\Jude\\source\\repos\\ECommerce\\Ecommerce.Api.Search\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,14 +23,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -41,32 +41,15 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
+        "netcoreapp3.0": {
           "dependencies": {
-            "Microsoft.AspNetCore.App": {
-              "suppressParent": "All",
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.1.1, )",
-              "autoReferenced": true
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.Extensions.Http.Polly": {
               "target": "Package",
-              "version": "[2.1.1, )"
-            },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            },
-            "System.Text.Json": {
-              "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -79,6 +62,14 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
