@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Orders", "Eco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Search", "Ecommerce.Api.Search\Ecommerce.Api.Search.csproj", "{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Product.Tests", "Ecommerce.Api.Product.Tests\Ecommerce.Api.Product.Tests.csproj", "{FC228679-8BF1-4855-84E1-2DF701A005EA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,10 +33,6 @@ Global
 		{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
