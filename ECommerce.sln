@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Customers", "Ecommerce.Api.Customers\Ecommerce.Api.Customers.csproj", "{3C229C1B-4B7F-4653-9FB4-4891AD4EE6A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Customers", "Ecommerce.Api.Customers\Ecommerce.Api.Customers.csproj", "{3C229C1B-4B7F-4653-9FB4-4891AD4EE6A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Products", "Ecommerce.Api.Products\Ecommerce.Api.Products.csproj", "{B0DFC7CB-20F0-45FB-9C72-4F59B29CD28D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Products", "Ecommerce.Api.Products\Ecommerce.Api.Products.csproj", "{B0DFC7CB-20F0-45FB-9C72-4F59B29CD28D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Orders", "Ecommerce.Api.Orders\Ecommerce.Api.Orders.csproj", "{BCAE9A31-CF76-4BB4-9C02-1E38097F2770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Orders", "Ecommerce.Api.Orders\Ecommerce.Api.Orders.csproj", "{BCAE9A31-CF76-4BB4-9C02-1E38097F2770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Search", "Ecommerce.Api.Search\Ecommerce.Api.Search.csproj", "{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Api.Search", "Ecommerce.Api.Search\Ecommerce.Api.Search.csproj", "{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Products.Tests", "Ecommerce.Api.Products.Tests\Ecommerce.Api.Products.Tests.csproj", "{C3391823-FB76-4F40-9282-24F0D3E90C09}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Api.Product.Tests", "Ecommerce.Api.Product.Tests\Ecommerce.Api.Product.Tests.csproj", "{FC228679-8BF1-4855-84E1-2DF701A005EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7AF10DD-24DB-4B8B-83B4-EACE47F4EB38}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C3391823-FB76-4F40-9282-24F0D3E90C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3391823-FB76-4F40-9282-24F0D3E90C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3391823-FB76-4F40-9282-24F0D3E90C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3391823-FB76-4F40-9282-24F0D3E90C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC228679-8BF1-4855-84E1-2DF701A005EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
