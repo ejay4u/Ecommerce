@@ -1,0 +1,275 @@
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/appsettings.Development.json
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/appsettings.json
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.exe
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/AutoMapper.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.ApplicationInsights.AspNetCore.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.ApplicationInsights.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.EventCounterCollector.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.DependencyCollector.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.ServerTelemetryChannel.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.PerfCounterCollector.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.WindowsServer.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.ApplicationInsights.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.pdb
+c:/course/ECommerce/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.AssemblyInfoInputs.cache
+c:/course/ECommerce/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.AssemblyInfo.cs
+c:/course/ECommerce/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.csproj.CopyComplete
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.deps.json
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.runtimeconfig.json
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.runtimeconfig.dev.json
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.pdb
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DiagnosticAdapter.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/testhost.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.abstractions.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.assert.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.core.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard1.3/System.Data.SqlClient.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard1.3/System.Data.SqlClient.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.csprojAssemblyReference.cache
+c:/course/ECommerce/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.dll
+c:/course/ECommerce/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.pdb
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.deps.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.runtimeconfig.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.runtimeconfig.dev.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.runner.utility.netcoreapp10.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.deps.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.runtimeconfig.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.runtimeconfig.dev.json
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.pdb
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.ApplicationInsights.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.ApplicationInsights.AspNetCore.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.DependencyCollector.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.EventCounterCollector.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.PerfCounterCollector.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.WindowsServer.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DiagnosticAdapter.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.ApplicationInsights.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.abstractions.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.assert.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.core.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/xunit.execution.dotnet.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard1.3/System.Data.SqlClient.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard1.3/System.Data.SqlClient.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/bin/Debug/netcoreapp3.1/ECommerce.Api.Products.pdb
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.csprojAssemblyReference.cache
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.AssemblyInfoInputs.cache
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.AssemblyInfo.cs
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.csproj.CoreCompileInputs.cache
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.csproj.CopyComplete
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.dll
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.pdb
+/Users/macintoshhd/Downloads/Ex_Files_Azure_Microservices_NET_Core_Dev/Exercise Files/04_03/ECommerce.Api.Products.Tests/obj/Debug/netcoreapp3.1/ECommerce.Api.Products.Tests.genruntimeconfig.cache
