@@ -38,3 +38,4 @@ C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\Ecommerce.Api.Orders.csproj.CopyComplete
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\Ecommerce.Api.Orders.dll
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\Ecommerce.Api.Orders.pdb
+C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\Ecommerce.Api.Orders.csprojAssemblyReference.cache

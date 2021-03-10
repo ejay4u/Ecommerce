@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/macintoshhd/.dotnet/store/|arch|/|tfm|",
-      "/Users/macintoshhd/.nuget/packages"
+      "C:\\Users\\Rodrigo Diaz Concha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rodrigo Diaz Concha\\.nuget\\packages"
     ]
   }
 }
