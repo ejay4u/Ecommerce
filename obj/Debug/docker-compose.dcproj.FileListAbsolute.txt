@@ -2,13 +2,7 @@ C:\Users\Jude\source\repos\ECommerce\bin\Debug\appsettings.Development.json
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\appsettings.json
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Properties\launchSettings.json
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Customers.exe
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Products.exe
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Orders.exe
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Search.exe
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Customers.dll
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Orders.dll
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Products.dll
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Search.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.EntityFrameworkCore.dll
@@ -16,9 +10,6 @@ C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Logging.Abst
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\AutoMapper.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Polly.dll
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Http.dll
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Http.Polly.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Primitives.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
@@ -30,11 +21,7 @@ C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.DependencyIn
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Logging.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Microsoft.Extensions.Options.dll
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Polly.Extensions.Http.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Customers.pdb
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Products.pdb
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Orders.pdb
-C:\Users\Jude\source\repos\ECommerce\bin\Debug\Ecommerce.Api.Search.pdb
 C:\Users\Jude\source\repos\ECommerce\obj\Debug\docker-compose.dcprojAssemblyReference.cache
 C:\Users\Jude\source\repos\ECommerce\obj\Debug\docker-compose.dcproj.CopyComplete

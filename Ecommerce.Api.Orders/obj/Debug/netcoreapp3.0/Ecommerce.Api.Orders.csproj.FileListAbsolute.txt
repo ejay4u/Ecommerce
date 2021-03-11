@@ -29,7 +29,6 @@ C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\bin\Debug\netcoreapp3.
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\Ecommerce.Api.Orders.csprojAssemblyReference.cache
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\staticwebassets\Ecommerce.Api.Orders.StaticWebAssets.Manifest.cache
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\staticwebassets\Ecommerce.Api.Orders.StaticWebAssets.xml
 C:\Users\Jude\source\repos\ECommerce\Ecommerce.Api.Orders\obj\Debug\netcoreapp3.0\Ecommerce.Api.Orders.MvcApplicationPartsAssemblyInfo.cache
